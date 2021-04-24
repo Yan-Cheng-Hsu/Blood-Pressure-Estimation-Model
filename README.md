@@ -3,12 +3,13 @@
 
 ## About the Repository
 
-All the code implementation details about building up the blood presure estimation model with PPG from scratch are demonstrated in this repository and the further technical details are elaborated in the paper published on the international journal Sensors.
+The repository provides two different depp-learning approaches
 
-**About Paper** :<br>
-**Hsu, Yan-Cheng**; Li, Yung-Hui; Chang, Ching-Chun; Harfiya, Latifa N. 2020. "Generalized Deep Neural Network Model for Cuffless Blood Pressure Estimation with Photoplethysmogram Signal Only." Sensors 20, no. 19: 5668. (**Impact Factor = 3.25, Special Issue: *Machine Learning and Intelligent Optimization Data Aggregation in Internet of Things***)
 
-**Link of Paper** : https://www.mdpi.com/1424-8220/20/19/5668
+Hsu, Yan-Cheng; Li, Yung-Hui; Chang, Ching-Chun; Harfiya, Latifa N. 2020. **"Generalized Deep Neural Network Model for Cuffless Blood Pressure Estimation with Photoplethysmogram Signal Only."** Sensors 20, no. 19: 5668. (Impact Factor = 3.25, Special Issue: Machine Learning and Intelligent Optimization Data Aggregation in Internet of Things)
+
+
+Click here to learn more about the paper: https://www.mdpi.com/1424-8220/20/19/5668
  <br>
  <br>
 
